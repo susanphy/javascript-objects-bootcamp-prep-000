@@ -1,3 +1,3 @@
 function playlist(){
-  return objects;
+  return object;
 }
