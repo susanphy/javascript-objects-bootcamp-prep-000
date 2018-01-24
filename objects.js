@@ -1,2 +1,0 @@
-var objects = `playlist`
-objects
