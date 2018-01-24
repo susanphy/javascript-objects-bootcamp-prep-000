@@ -1,5 +1,4 @@
-function object(playlist){
-  return object;
+var object ={playlist}
 }
 
 function updatePlaylist(playlist,artistName, songTitle){
