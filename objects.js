@@ -1,8 +1,8 @@
-function playlist(object){
-  return object;
-}
 
-function updatedPlaylist(playlist,artistName, songTitle)
+
+function updatedPlaylist(playlist,artistName, songTitle){
+  
+}
 
 
 function removeFromPlaylist(playlist, artistName) {
