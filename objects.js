@@ -1,7 +1,8 @@
 
 
 function updatedPlaylist(playlist,artistName, songTitle){
-  
+playlist[artistName,songTitle];
+  return playlist;
 }
 
 
