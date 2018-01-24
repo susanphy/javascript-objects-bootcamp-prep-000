@@ -1,1 +1,1 @@
-var playlist ={}
+var song = {playlist}
